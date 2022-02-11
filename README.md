@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsmetoso
+- 👋 Hi, I’m **Toso**
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning c, c++, java, python, go, .net, javascript and any programming languages  
 - 💞️ I’m looking to collaborate with you
