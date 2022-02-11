@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Toso**
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning c, c++, java, python, go, .net, javascript and any programming languages  
+- 🌱 I’m currently learning Julia, Haskell, Go, Ruby, Python, C, C++, Swift, Java, .Net, javascript and any programming languages  
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me itsmetoso@gmail.com
 
