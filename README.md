@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Toso**
-- 👀 I’m interested in programming 
+- 👀 I’m interested in Rust & Go
 - 🌱 I’m currently learning Julia, Haskell, Go, Ruby, Kotlin, Python, Rust, C, C++, Swift, Java, .Net, javascript and any programming languages  
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me itsmetoso@gmail.com
